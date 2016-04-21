@@ -1,0 +1,3 @@
+# studentsmanage
+struts2+hibernate实现学生信息管理
+使用hibernate+struts2模拟管理员后台登陆，对存放在数据库中的学生信息进行一系列操作。
